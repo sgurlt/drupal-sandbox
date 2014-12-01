@@ -36,4 +36,4 @@ xmlrpc.php
 /themes
 
 # Ignore PHPStorm Files
-/.idea
+.idea/
